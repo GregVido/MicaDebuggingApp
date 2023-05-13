@@ -1,7 +1,7 @@
 <h1 align=center>Mica Debugging App</h1>
 <div align=center>
 <img src="img/example-explorer.png" name="exemple">
-<b>Mica Debugging App</b> is a tool to add mica effect on any windows application.<br>
+<b>Mica Debugging App</b> is a tool to apply mica effect on any windows application.<br>
 This is created by <a href="https://www.youtube.com/gregvido">GregVido</a>.<br>
 </div>
 

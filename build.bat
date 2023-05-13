@@ -1,0 +1,1 @@
+g++ main.cpp -o bin/app.exe -static-libgcc -static-libstdc++
